@@ -1,0 +1,8 @@
+#+title: newsletter
+#+options: toc:nil date:nil num:nil
+
+1. [[https://www.getrevue.co/profile/lostluu][有朝随想]]
+2. [[https://via.hedwig.pub][事不过三]]
+3. [[https://pt.plus/author/neozhang/][平台思考]]
+4. [[https://fs.blog/newsletter/][Brain food]]
+5. [[https://jamesclear.com/3-2-1][3-2-1]]
