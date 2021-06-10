@@ -1,0 +1,97 @@
+#+title: elfeed
+
+* Blogs :elfeed:
+** http://0x100.club
+** https://isamert.net/feeds.html
+** http://pragmaticemacs.com/feed/
+** https://blog.tecosaur.com/tmio/rss.xml
+** https://nullprogram.com/feed/
+** https://kitchingroup.cheme.cmu.edu/blog/
+** https://protesilaos.com/feeds/
+** http://weiwuhui.com/feed
+** https://bzg.fr/index.xml
+** https://alhassy.github.io/rss.xml
+** http://blog.aaronbieber.com/feed.xml
+** https://rgoswami.me/posts/index.xml
+** [[https://archive.casouri.cat/note/rss.xml]]
+** http://bnbeckwith.com/rss.xml
+** http://abovethecrowd.com
+** http://feeds.feedburner.com/xxddite
+** http://batsov.com/atom.xml
+** http://feeds.feedburner.com/zhihu-daily
+** https://greatdk.com
+** https://daimajia.com/feed
+** https://d12frosted.io/atom.xml
+** http://blog.jiayuanzhang.com
+** https://kenengba.com
+** https://yiufung.net/index.xml
+** http://www.fengtang.com/blog/
+** http://mrpm.cc
+** http://weiwuhui.com
+** http://blog.devtang.com/atom.xml
+** https://geekplux.com/atom.xml
+** https://huiris.com/feed
+** https://lenciel.com/feed.xml
+** https://manateelazycat.github.io/feed.xml
+** https://meditic.com/feed
+** https://oldj.net/feed/
+** https://irreal.org/blog/?feed=rss2
+** https://oremacs.com/
+** http://blog.cnbang.net
+** https://feeds.pub/feed/http%3A%2F%2Frsshub.app%2Fgithub%2Fissue%2Fheadllines%2Fhackernews-monthly
+** https://ag91.github.io/rss.xml
+** http://www.ruanyifeng.com/blog/atom.xml
+** https://scripter.co/index.xml
+** http://yangqinyuan.com/feed.xml
+** http://www.yinwang.org/
+** https://write.as/dani/
+** https://zeove.com/feed
+** http://liwen.name/index.xml
+** http://feeds.feedburner.com/scotthyoung/HAHx
+** http://blog.binchen.org/?feed=rss2
+** http://feeds.feedburner.com/InformationIsBeautiful
+
+** https://cdn.werss.weapp.design/api/v1/feeds/3ed818cf-4cb6-4ecf-bf3b-c3bee0a915bb.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/334c3674-70ea-4125-8c13-304f736ccf73.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/98b038e0-1557-48df-9b5d-0fb9c9031554.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/56bf0a97-5052-44db-85b6-424c09d34533.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/ab77929b-c263-4f1d-b5bf-9057d9ebf68a.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/889e53e3-00e3-49cf-97c2-d97e33f64259.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/d3e200ce-d74c-4966-9080-7d0936787d09.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/77ff3e0a-558e-420b-b587-0d54882725a7.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/a9506cc9-b699-4915-aff6-5e9b7601c3ca.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/a0ae3202-a1e3-4e0a-9d6d-9a72a795b5e9.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/4160468c-9dbe-44cc-abd0-0acc8103baf1.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/6c09b13d-cf50-4064-828c-91315c88a0cb.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/c58138a4-cc0c-4451-8b17-262eb3fbf140.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/00c36dc8-bb8d-4476-a5cb-77a484e2ad12.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/5e05bab9-5f7e-410d-8b0a-da0b7298cf1e.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/347f2d0a-c80b-45f2-8a35-e435060a8d3b.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/01eef187-1a30-464d-88ed-c50624fee5a4.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/0988f3d0-af32-4ba3-ae2b-9b0e25c02055.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/527477df-d345-40ac-893b-0ef578a7b9fb.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/5c2d0696-7ded-45d9-902e-dd3e0a7450ea.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/f684c05e-6ce0-42a2-b380-1a8f5498547b.xml
+
+** https://cdn.werss.weapp.design/api/v1/feeds/28aa2421-8805-4bc0-9d83-1200fd0e4ac2.xml
+** https://cdn.werss.weapp.design/api/v1/feeds/14959caa-de65-426a-beb9-896131b643d5.xml
