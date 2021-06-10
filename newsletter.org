@@ -6,3 +6,4 @@
 3. [[https://pt.plus/author/neozhang/][平台思考]]
 4. [[https://fs.blog/newsletter/][Brain food]]
 5. [[https://jamesclear.com/3-2-1][3-2-1]]
+6. [[https://www.baseclass.io/newsletter][basecamp computing concepts]]
